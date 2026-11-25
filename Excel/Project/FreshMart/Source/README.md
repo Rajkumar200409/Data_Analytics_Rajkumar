@@ -2,7 +2,7 @@
 
 > **Interactive Retail Sales & Profitability Analysis Dashboard using Microsoft Excel**
 
-![FreshMart Dashboard](freshmart dashboard image.png)
+![Dashboard](dashboard.png)
 
 ## 🎯 Objective
 
