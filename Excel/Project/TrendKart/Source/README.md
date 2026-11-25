@@ -74,7 +74,6 @@ The dashboard helps identify business trends, evaluate profitability, monitor sa
 - **Regional Performance:** State-wise sales analysis compares performance across Karnataka, Telangana, Kerala, Tamil Nadu, and Andhra Pradesh.
 - **Product Profitability:** High-sales, low-profit products can be identified for further profitability analysis.
 - **Business Opportunities:** The dashboard provides insights and actions related to low-margin products, online sales, and return rates.
-- <img width="1365" height="582" alt="trendkard dashboard image" src="https://github.com/user-attachments/assets/6b903cb9-3223-4ab0-840e-2a06fd3c5df6" />
 
 ## 📂 Project Structure
 
