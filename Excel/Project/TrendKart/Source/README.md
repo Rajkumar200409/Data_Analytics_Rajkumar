@@ -1,12 +1,7 @@
 # 🛒 TrendMart – Retail Sales Dashboard
+- <img width="1365" height="582" alt="trendkard dashboard image" src="https://github.com/user-attachments/assets/6b903cb9-3223-4ab0-840e-2a06fd3c5df6" />
 
 An interactive retail sales analysis dashboard developed using Microsoft Excel to analyze sales performance, profitability, customer behavior, and store performance.
-
-## 📷 Dashboard Preview
-
-![TrendMart Retail Sales Dashboard](https://github.com/karthick2325/Data_Analytics_Karthick_V/raw/main/02_Excel/PROJECT/TrendKart/SOURCE/Dashboard/Dashboard.jpeg)
-
-*Interactive TrendMart Retail Sales Dashboard developed using Microsoft Excel.*
 
 ## 🎯 Project Objective
 
@@ -79,6 +74,7 @@ The dashboard helps identify business trends, evaluate profitability, monitor sa
 - **Regional Performance:** State-wise sales analysis compares performance across Karnataka, Telangana, Kerala, Tamil Nadu, and Andhra Pradesh.
 - **Product Profitability:** High-sales, low-profit products can be identified for further profitability analysis.
 - **Business Opportunities:** The dashboard provides insights and actions related to low-margin products, online sales, and return rates.
+- <img width="1365" height="582" alt="trendkard dashboard image" src="https://github.com/user-attachments/assets/6b903cb9-3223-4ab0-840e-2a06fd3c5df6" />
 
 ## 📂 Project Structure
 
@@ -122,4 +118,3 @@ TrendKart/
 
 *This project demonstrates the application of Microsoft Excel for retail sales analysis, performance monitoring, and business intelligence.*
 
-<img width="1365" height="582" alt="trendkard dashboard image" src="https://github.com/user-attachments/assets/21cd56f0-733d-4e59-bc0c-ef2298ccbeb2" />
