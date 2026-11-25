@@ -1,9 +1,8 @@
-<img width="1248" height="532" alt="freshmart dashboard image" src="https://github.com/user-attachments/assets/d8a7995e-94b2-4232-a911-257ea33312e1" />
 # 🛒 FreshMart – Retail Sales & Profitability Analysis Dashboard
 
 > **Interactive Retail Sales & Profitability Analysis Dashboard using Microsoft Excel**
 
-![Dashboard](dashboard.png)
+<img width="1248" height="532" alt="freshmart dashboard image" src="https://github.com/user-attachments/assets/d8a7995e-94b2-4232-a911-257ea33312e1" />
 
 ## 🎯 Objective
 
