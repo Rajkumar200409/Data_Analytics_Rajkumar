@@ -76,16 +76,19 @@ The dashboard helps identify business trends, evaluate profitability, monitor sa
 - **Business Opportunities:** The dashboard provides insights and actions related to low-margin products, online sales, and return rates.
 
 ## 📂 Project Structure
-
-```text
-TrendKart/
+Data_Analytics_Rajkumar/
 │
-├── SOURCE/
-│   └── Dashboard/
-│       └── Dashboard.jpeg
-│
-└── README.md
-```
+└── Excel/
+    │
+    └── Project/
+        │
+        └── TrendKart/
+            │
+            ├── Source/
+            │   └── Dashboard/
+            │       └── Dashboard.jpeg
+            │
+            └── Trendkart_Final project.xlsx
 
 ## 🔍 Analytical Approach
 
