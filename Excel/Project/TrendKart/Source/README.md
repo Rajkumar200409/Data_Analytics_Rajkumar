@@ -1,4 +1,4 @@
-# 🛒 TrendMart – Retail Sales Dashboard
+# 🛒 TrendKart – Retail Sales Dashboard
 - <img width="1365" height="582" alt="trendkard dashboard image" src="https://github.com/user-attachments/assets/6b903cb9-3223-4ab0-840e-2a06fd3c5df6" />
 
 An interactive retail sales analysis dashboard developed using Microsoft Excel to analyze sales performance, profitability, customer behavior, and store performance.
