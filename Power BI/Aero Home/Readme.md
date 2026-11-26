@@ -2,8 +2,6 @@
 # Aero Home Production Performance Dashboard
 
 ## Dashboard
-
-The AeroHome dashboard is a single 1280 × 720 report page (`AeroHome`) that converts the business problem into a focused operational-performance story. It uses a custom **AeroHome Aurora** theme and background image.
 <img width="1355" height="732" alt="Aero Home dashboard img" src="https://github.com/user-attachments/assets/788e8281-3920-4718-b257-d0671097cd7f" />
 
 ## Business Problem
