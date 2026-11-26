@@ -1,10 +1,11 @@
+
 # NovaTech Production Decline Dashboard
 
 ## Dashboard
 
 The dashboard is a single 1280 × 720 report page (`NovaTech`) using a custom **NovaTech Aurora** theme and background image.
 
-![NovaTech Dashboard](Dashboard/Dashboard.png)
+<img width="1327" height="727" alt="Nova tech dashboard img" src="https://github.com/user-attachments/assets/76f83511-9fc8-4651-b54f-ab37cc4ffd95" />
 
 ## Business Problem
 
